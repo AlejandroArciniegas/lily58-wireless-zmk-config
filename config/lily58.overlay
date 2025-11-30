@@ -1,0 +1,4 @@
+&led_strip {
+    /* 6 underglow + 29 per-key = 35 LEDs total */
+    chain-length = <35>;
+};
